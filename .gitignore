@@ -1,0 +1,33 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Pytest and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Generated HPO output
+Task-2/hpo_terms.csv
+Task-2/hpo.db
+Task-2/*.db
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Full downloaded HPO dataset
+Task-2/tests/data/hp.json

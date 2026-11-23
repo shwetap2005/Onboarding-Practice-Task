@@ -1,0 +1,45 @@
+{
+  "graphs": [
+    {
+      "nodes": [
+        {
+          "id": "http://purl.obolibrary.org/obo/HP_0001250",
+          "lbl": "Seizure",
+          "type": "CLASS"
+        },
+        {
+          "id": "http://purl.obolibrary.org/obo/HP_0000118",
+          "lbl": "Phenotypic abnormality",
+          "type": "CLASS"
+        },
+        {
+          "id": "http://purl.obolibrary.org/obo/HP_0000057",
+          "lbl": "obsolete Clitoromegaly",
+          "type": "CLASS",
+          "meta": {
+            "deprecated": true
+          }
+        },
+        {
+          "id": "http://purl.obolibrary.org/obo/HP_0000099",
+          "type": "CLASS"
+        },
+        {
+          "id": "http://purl.obolibrary.org/obo/GO_0008150",
+          "lbl": "biological_process",
+          "type": "CLASS"
+        },
+        {
+          "id": "http://purl.obolibrary.org/obo/HP_0000001",
+          "lbl": "All",
+          "type": "PROPERTY"
+        },
+        {
+          "id": "http://purl.obolibrary.org/obo/HP_0001250",
+          "lbl": "Seizure",
+          "type": "CLASS"
+        }
+      ]
+    }
+  ]
+}
