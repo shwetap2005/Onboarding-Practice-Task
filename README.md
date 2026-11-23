@@ -10,8 +10,8 @@ Tasks are organized into separate folders for easy navigation.
 
 | Task | Description | Status |
 |---|---|---|
-| Task 1 | To be updated | In Progress |
-| Task 2 | To be updated | Pending |
+| Task 1 | To be updated | Completed |
+| Task 2 | To be updated | In progress |
 | Task 3 | To be updated | Pending |
 | Task 4 | To be updated | Pending |
 
